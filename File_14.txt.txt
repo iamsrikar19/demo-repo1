@@ -1,2 +1,5 @@
 today i am
 learin jenkins topics
+in jenkins some topics
+build
+career
